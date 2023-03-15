@@ -1,4 +1,4 @@
-### Primo compito
+# Primo compito
 
 Usa `sudo apt install zip` prima di eseguire lo script.
 
